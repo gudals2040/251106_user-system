@@ -1,4 +1,6 @@
 package org.example.usersystem.model.entity;
 
-public record UserAccount() {
-}
+public record UserAccount(
+        String username,
+        String password
+) {}

@@ -9,7 +9,7 @@
     <a href="<%= request.getContextPath() %>/join">회원가입</a>
 </nav>
 <section>
-    <img style="width: 320px; border-radius: 16px;" src="img/cat.jpg" alt="고양이">
+    <p>환영합니다!</p>
 </section>
 </body>
 </html>
